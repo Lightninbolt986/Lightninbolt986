@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armaan Raisinghani</h1>
 <h3 align="center">A website and ML developer from India</h3>
 
-- 🔭 I’m currently working on [Project Mayday](https://github.com/Lightninbolt986/Project-Mayday)
+- 🔭 I’m currently working on [Pustakani React App](https://github.com/Lightninbolt986/Pustakani-app)
 
 - 🌱 I’m currently learning **NEAT in Python**
 
